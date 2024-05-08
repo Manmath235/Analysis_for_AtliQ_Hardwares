@@ -24,5 +24,10 @@ Acknowledgements
 This project was completed as part of a course at CodeBasics. Special thanks to Dhaval Patel and Hemanand Vadivel Sir for their guidance and support.
 
 Files Included
-Sales_Finance_Analytics_Report.xlsx: Excel file containing the sales and finance analytics report.
-Sales_Finance_Analytics_Report.pdf: PDF version of the sales and finance analytics report.
+Sales_Analysis_Report 1.xlsx
+Sales_Analysis_Report 2.xlsx
+Sales_Analysis_Report 3.xlsx
+Excel files containing the sales and finance analytics report.
+
+Sales Analysis for AtliQ Hardwares.pdf
+PDF version of the sales and finance analytics report.
